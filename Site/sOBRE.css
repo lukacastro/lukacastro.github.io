@@ -1,0 +1,17 @@
+@charset "utf-8";
+body {
+	background-image: url(LukaCastro%20-%20ScriptPhotoshop-Sobre.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.jumbotron {
+    background-color: #e7f1f3;
+}.panel {
+    background-color: #e7f1f3;
+    border: 1px solid #e7f1f3;
+
+}
+.navbar-default {
+    background-color: #e7f1f3;
+    border-color: #e7f1f3;
+}

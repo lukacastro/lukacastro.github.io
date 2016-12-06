@@ -1,0 +1,18 @@
+@charset "utf-8";
+body {
+	background-image: url(Fundo.png);
+}
+.list-inline {
+    background-color: #BCD1D8;
+}
+.navbar-default {
+    background-color: #426f75;
+  
+}
+.navbar-default .navbar-brand {
+    color:  #e7f1f3;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color:  #e7f1f3;
+}

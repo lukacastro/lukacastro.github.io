@@ -1,0 +1,26 @@
+@charset "utf-8";
+body {
+	background-color: #e7f1f3;
+}
+
+.jumbotron {
+    background-color: #e7f1f3;
+}.panel {
+    background-color: #e7f1f3;
+    border: 1px solid #e7f1f3;
+
+}
+.navbar-default {
+    background-color: #e7f1f3;
+    border-color: #e7f1f3;
+}
+.jumbotron .h2, .jumbotron h2 {
+    color: #426f75;
+    BACKGROUND-COLOR: #e7f1f3;
+}
+.form-horizontal .control-label {
+    padding-top: 7px;
+    margin-bottom: 0;
+    text-align: right;
+    color: #426f75;
+}
